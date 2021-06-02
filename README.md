@@ -11,5 +11,5 @@ Hi, I'm Nilber Silva, a passionate .NET Developer. My passion for software lies 
 - 🌱 I'm currently learning and improving on React, Typescript, TDD, SOLID!
 - 🔭 I’m currently working on a .NET Core WPF Setup creator
 
-<hr/>
+<br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilbersilva&show_icons=true&theme=gotham&layout=compact">
