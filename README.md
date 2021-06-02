@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-nilbersilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/nilbersilva/)](www.linkedin.com/in/nilbersilva/) [![Gmail Badge](https://img.shields.io/badge/-nilbersilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilbersilva@gmail.com)](mailto:nilbersilva@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-nilbersilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilbersilva/)](https://www.linkedin.com/in/nilbersilva/) [![Gmail Badge](https://img.shields.io/badge/-nilbersilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilbersilva@gmail.com)](mailto:nilbersilva@gmail.com)
 
 Hi, I'm Nilber Silva, a passionate .NET Developer. My passion for software lies in coming up with different, innovative ideas and make them come true.
 
