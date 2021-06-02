@@ -7,12 +7,11 @@ Hi, I'm Nilber Silva, a passionate Full Stack .NET developer. My passion for sof
 <br/>
 
 - 💬 Ask me about anything, I am happy to help!
-- 🔭 I'm currently learning and improving on React, Typescript, TDD, SOLID!
+- 🌱 I'm currently learning and improving on React, Typescript, TDD, SOLID!
+- 🔭 I’m currently working on a .NET Core WPF Setup creator
 
 <br/>
-
-<br/>
-<a href="https://github.com/Welisson"> 
+<a href="https://github.com/nilbersilva"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilbersilva&show_icons=true&theme=gotham&layout=compact">
 </a>
 
